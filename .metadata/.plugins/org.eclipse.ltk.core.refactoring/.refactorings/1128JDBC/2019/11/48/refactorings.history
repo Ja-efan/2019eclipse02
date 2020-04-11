@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;JDBC.JDBCConnection&apos; to &apos;FriendsSelect&apos;&#x0D;&#x0A;- Original project: &apos;1128JDBC&apos;&#x0D;&#x0A;- Original element: &apos;JDBC.JDBCConnection&apos;&#x0D;&#x0A;- Renamed element: &apos;JDBC.FriendsSelect&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JDBCConnection&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;JDBC{JDBCConnection.java[JDBCConnection" matchStrategy="1" name="FriendsSelect" qualified="false" references="true" similarDeclarations="false" stamp="1574919995386" textual="false" version="1.0"/>
+</session>
